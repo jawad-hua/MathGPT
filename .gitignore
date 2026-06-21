@@ -1,0 +1,7 @@
+# Local Streamlit secrets (Aapki API key)
+.streamlit/
+
+# Python cache files
+__pycache__/
+*.pyc
+
