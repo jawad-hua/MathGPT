@@ -31,21 +31,20 @@ Whether a student uploads a photo of a textbook problem or types out an algebrai
 
 ## 🎬 Demo
 
-<div align="center">
-
 ### Clean, Distraction-Free Interface
-<img src="docs/screenshot-home.png" alt="MathGPT Home Screen" width="850">
+
+![MathGPT Home Screen](docs/screenshot-home.png)
 
 ### Instant Text-Based Solving
-<img src="docs/screenshot-text-solve.png" alt="MathGPT solving 2x²-5x-3=0" width="850">
 
-### Detailed Step-by-Step Breakdown
-<img src="docs/screenshot-steps-1.png" alt="Step-by-step solution part 1" width="850">
-<img src="docs/screenshot-steps-2.png" alt="Step-by-step solution part 2" width="850">
+![MathGPT Text Solver](docs/screenshot-text-solve.png)
 
-</div>
+### Detailed Step-by-Step Solutions
 
-> 📁 Save the screenshots into a `docs/` folder in the repo root with the filenames above (`screenshot-home.png`, `screenshot-text-solve.png`, `screenshot-steps-1.png`, `screenshot-steps-2.png`) so they render correctly on GitHub.
+![MathGPT Solution Part 1](docs/screenshot-steps-1.png)
+
+![MathGPT Solution Part 2](docs/screenshot-steps-2.png)
+
 
 ---
 
